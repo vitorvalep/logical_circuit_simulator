@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1631491482 source:c:\users\rafae\desktop\pa_projeto3\circuito\bool3s.cpp
+	<iostream>
+	"bool3S.h"
+
+1631491482 c:\users\rafae\desktop\pa_projeto3\circuito\bool3s.h
+	<iostream>
+
+1631491482 source:c:\users\rafae\desktop\pa_projeto3\circuito\circuito-main.cpp
+	<iostream>
+	<string>
+	"circuito.h"
+
+1631570288 c:\users\rafae\desktop\pa_projeto3\circuito\circuito.h
+	<iostream>
+	<string>
+	<vector>
+	"bool3S.h"
+
+1631591663 source:c:\users\rafae\desktop\pa_projeto3\circuito\circuito.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<limits>
+	"circuito.h"
+	"bool3S.h"
+
+1631371620 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 3\code\circuito\bool3s.cpp
+	<iostream>
+	"bool3S.h"
+
+1631371620 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 3\code\circuito\bool3s.h
+	<iostream>
+
+1631371620 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 3\code\circuito\circuito-main.cpp
+	<iostream>
+	<string>
+	"circuito.h"
+
+1631583298 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 3\code\circuito\circuito.h
+	<iostream>
+	<string>
+	<vector>
+	"bool3S.h"
+
+1631599932 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 3\code\circuito\circuito.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<limits>
+	"circuito.h"
+	"bool3S.h"
+
